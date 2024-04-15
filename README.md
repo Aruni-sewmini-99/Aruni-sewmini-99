@@ -1,16 +1,13 @@
-### Hi there 👋
+## 🚀 My_Skills
 
-<!--
-**Aruni-sewmini-99/Aruni-sewmini-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📈 Github_Stats
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aruni-sewmini-99&show_icons=true&theme=radical&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aruni-sewmini-99&theme=radical&langs_count=15&layout=compact&hide_border=true)
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Aruni-sewmini-99&theme=redical&hide_border=true&area=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aruni-sewmini-99&theme=radical&hide_border=true)
+
+---
