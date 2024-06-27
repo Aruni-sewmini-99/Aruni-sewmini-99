@@ -20,7 +20,7 @@ https://github.com/Aruni-sewmini-99/Laptop-Price-Predictor
 https://github.com/Aruni-sewmini-99/Road-Accident-Analysis-Power-BI-Dashboard
 ###### Technologies Used: PowerBI
 
-## Skills <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+## Skills 
 
 - **Programming Languages:** Python, R, Java, C
 - **Web Development:** React, Flask
@@ -46,6 +46,6 @@ https://github.com/Aruni-sewmini-99/Road-Accident-Analysis-Power-BI-Dashboard
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aruni-sewmini-99&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aruni-sewmini-99&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
 
 ---
