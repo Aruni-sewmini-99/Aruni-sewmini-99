@@ -20,7 +20,7 @@ https://github.com/Aruni-sewmini-99/Road-Accident-Analysis-Power-BI-Dashboard
 ###### Technologies Used: PowerBI
 
 ### 3. PowerBI Project | HR Analytics Dashboard 
-
+https://github.com/Aruni-sewmini-99/HR-Analytics-Dashboard-Power-BI
 ###### Technologies Used: PowerBI
 
 ## Skills 
