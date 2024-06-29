@@ -6,7 +6,7 @@
 
 ## About Me 
 
-<p>I am an undergraduate student at the University of Peradeniya, currently pursuing a B.Sc. (Hons) in Statistics and Operations Research. I have a strong passion for data science, data visualization, and web development. My academic journey and personal projects have equipped me with a diverse set of skills in various technologies.</p>
+<p> I'm an undergraduate student at the University of Peradeniya, pursuing a B.Sc. (Hons) in Statistics and Operations Research. I'm passionate about data science, data visualization, and web development. I enjoy transforming data into actionable insights and constantly exploring new technologies. Feel free to check out my repositories and connect with me!</p>
 
 
 ## My Projects  
