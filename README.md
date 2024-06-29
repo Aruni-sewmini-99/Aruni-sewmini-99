@@ -15,8 +15,12 @@
 https://github.com/Aruni-sewmini-99/Laptop-Price-Predictor
 ###### Technologies Used: Python(Jupyter, flask) / HTML / CSS
 
-### 1. PowerBI Project | Road Accident Analysis
+### 2. PowerBI Project | Road Accident Analysis
 https://github.com/Aruni-sewmini-99/Road-Accident-Analysis-Power-BI-Dashboard
+###### Technologies Used: PowerBI
+
+### 3. PowerBI Project | HR Analytics Dashboard 
+
 ###### Technologies Used: PowerBI
 
 ## Skills 
