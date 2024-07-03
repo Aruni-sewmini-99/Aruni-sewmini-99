@@ -25,7 +25,7 @@ https://github.com/Aruni-sewmini-99/HR-Analytics-Dashboard-Power-BI
 
 ## Skills 
 
-- **Programming Languages:** Python, R, Java, C
+- **Programming Languages:** Python, R, Java, C, SQL
 - **Web Development:** React, Flask
 - **Data Visualization:** Power BI, Matplotlib
 - **Machine Learning:** Scikit-learn
