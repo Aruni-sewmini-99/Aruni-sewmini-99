@@ -29,6 +29,7 @@ https://github.com/Aruni-sewmini-99/HR-Analytics-Dashboard-Power-BI
 - **Web Development:** React, Flask
 - **Data Visualization:** Power BI, Matplotlib
 - **Machine Learning:** Scikit-learn
+- **UI/UX:** Figma
 
 
 
