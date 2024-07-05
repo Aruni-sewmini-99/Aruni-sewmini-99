@@ -23,14 +23,17 @@ https://github.com/Aruni-sewmini-99/Road-Accident-Analysis-Power-BI-Dashboard
 https://github.com/Aruni-sewmini-99/HR-Analytics-Dashboard-Power-BI
 ###### Technologies Used: PowerBI
 
+### 4. Excel Project | Sales Dashboard 
+https://github.com/Aruni-sewmini-99/Sales-Excel-Dashboard-
+###### Technologies Used: Excel (VLOOK, OFFSET, COUNT, RANK)/ Excel Dashboard/ Excel Pivot
+
 ## Skills 
 
 - **Programming Languages:** Python, R, Java, C, SQL
 - **Web Development:** React, Flask
-- **Data Visualization:** Power BI, Matplotlib
+- **Data Visualization:** Power BI, Matplotlib, Excel dashboard, Excel Pivot
 - **Machine Learning:** Scikit-learn
 - **UI/UX:** Figma
-
 
 
 ## Education
