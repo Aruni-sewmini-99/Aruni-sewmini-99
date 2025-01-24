@@ -26,6 +26,16 @@ https://github.com/Aruni-sewmini-99/HR-Analytics-Dashboard-Power-BI
 ### 4. Excel Project | Sales Dashboard 
 https://github.com/Aruni-sewmini-99/Sales-Excel-Dashboard-
 ###### Technologies Used: Excel (VLOOK, OFFSET, COUNT, RANK)/ Excel Dashboard/ Excel Pivot
+## My Blog
+
+### 1.Statistical Graphs with ggplot2
+https://github.com/Aruni-sewmini-99/Data-visualization-ggplot2
+###### Technologies Used: DataVisualization , RProgramming (ggplot2)
+
+### 2.Understanding Basic Statistics
+https://github.com/Aruni-sewmini-99/Understanding_Basic_Statistics
+###### Technologies Used: Statistics ,Python ,R ,DataScience
+
 
 ## Skills 
 
