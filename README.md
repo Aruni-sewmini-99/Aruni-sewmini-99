@@ -36,6 +36,9 @@ https://github.com/Aruni-sewmini-99/Data-visualization-ggplot2
 https://github.com/Aruni-sewmini-99/Understanding_Basic_Statistics
 ###### Technologies Used: Statistics ,Python ,R ,DataScience
 
+### 3.IPL-Data-Analysis 🏏📊
+https://github.com/Aruni-sewmini-99/IPL-Data-Analysis
+###### Technologies Used:IPL Analysis, Data Science, Python, Colab Notebook
 
 ## Skills 
 
